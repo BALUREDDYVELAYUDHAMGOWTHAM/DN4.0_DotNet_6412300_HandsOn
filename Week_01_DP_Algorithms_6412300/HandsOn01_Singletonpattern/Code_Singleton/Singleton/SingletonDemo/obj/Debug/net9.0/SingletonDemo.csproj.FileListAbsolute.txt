@@ -1,0 +1,14 @@
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\bin\Debug\net9.0\SingletonDemo.exe
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\bin\Debug\net9.0\SingletonDemo.deps.json
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\bin\Debug\net9.0\SingletonDemo.runtimeconfig.json
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\bin\Debug\net9.0\SingletonDemo.dll
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\bin\Debug\net9.0\SingletonDemo.pdb
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\obj\Debug\net9.0\SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\obj\Debug\net9.0\SingletonDemo.AssemblyInfoInputs.cache
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\obj\Debug\net9.0\SingletonDemo.AssemblyInfo.cs
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\obj\Debug\net9.0\SingletonDemo.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\obj\Debug\net9.0\SingletonDemo.dll
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\obj\Debug\net9.0\refint\SingletonDemo.dll
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\obj\Debug\net9.0\SingletonDemo.pdb
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\obj\Debug\net9.0\SingletonDemo.genruntimeconfig.cache
+C:\Users\SEC\Desktop\Singleton\SingletonDemo\obj\Debug\net9.0\ref\SingletonDemo.dll
