@@ -1,0 +1,14 @@
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\bin\Debug\net9.0\FinancialDemo.exe
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\bin\Debug\net9.0\FinancialDemo.deps.json
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\bin\Debug\net9.0\FinancialDemo.runtimeconfig.json
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\bin\Debug\net9.0\FinancialDemo.dll
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\bin\Debug\net9.0\FinancialDemo.pdb
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\obj\Debug\net9.0\FinancialDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\obj\Debug\net9.0\FinancialDemo.AssemblyInfoInputs.cache
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\obj\Debug\net9.0\FinancialDemo.AssemblyInfo.cs
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\obj\Debug\net9.0\FinancialDemo.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\obj\Debug\net9.0\FinancialDemo.dll
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\obj\Debug\net9.0\refint\FinancialDemo.dll
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\obj\Debug\net9.0\FinancialDemo.pdb
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\obj\Debug\net9.0\FinancialDemo.genruntimeconfig.cache
+C:\Users\SEC\Desktop\Financialforecasting\FinancialDemo\obj\Debug\net9.0\ref\FinancialDemo.dll
