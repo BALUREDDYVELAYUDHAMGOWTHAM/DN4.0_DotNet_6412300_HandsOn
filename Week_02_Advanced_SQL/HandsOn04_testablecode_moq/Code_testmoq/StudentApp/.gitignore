@@ -1,0 +1,28 @@
+# Ignore build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userprefs
+
+# VS Code settings (optional to ignore)
+.vscode/
+
+# Dotnet-specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test Results
+TestResults/
+*.coverage
+
+# Logs
+*.log
