@@ -12,9 +12,9 @@ if (!db.Categories.Any())
 
     db.Categories.AddRange(electronics, groceries);
     db.Products.AddRange(
-        new Product { Name = "TV", Quantity = 10, Price = 45000, Category = electronics },
-        new Product { Name = "Mobile", Quantity = 25, Price = 15000, Category = electronics },
-        new Product { Name = "Rice", Quantity = 100, Price = 50, Category = groceries }
+        new Product { Name = "AC", Quantity = 10, Price = 40000, Category = electronics },
+        new Product { Name = "Speaker", Quantity = 25, Price = 20000, Category = electronics },
+        new Product { Name = "Greengram", Quantity = 100, Price = 250, Category = groceries }
     );
 
     db.SaveChanges();
