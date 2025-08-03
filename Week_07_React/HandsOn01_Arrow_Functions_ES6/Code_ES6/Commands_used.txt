@@ -1,0 +1,12 @@
+
+// For creating the react app
+
+npx create-react-app cricketapp
+
+// Get into the path of the react project
+
+cd cricketapp
+
+// Run the application
+
+npm start
